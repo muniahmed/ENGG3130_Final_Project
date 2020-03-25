@@ -23,3 +23,12 @@ If you’re not very far along in your project yet, don’t panic! The presentat
 # How people interact with each other
 
 We think about speech when we think about communication but there are many factors which affects our interaction with others.
+
+1. Facial expressions.
+2. Gestures.
+3. Pointing / Using hands.
+4. Writing.
+5. Drawing.
+6. Using equipment e.g. Text message or computer.
+7. Touch.
+8. Eye contact
