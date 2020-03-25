@@ -5,10 +5,15 @@
 Project Presentation Rubric:	
 
 Motivate and define the problem:	                                                                              20
+
 Briefly mention related work:	                                                                                  20
+
 Explain at least one the main ideas of your project clearly:	                                                  20
+
 Show a draft of Figure 1, a visual representation of the main idea:	                                            10
+
 Explain planned experiments or show results. Try to explain what we might learn from these experiments:	        20
+
 Finish under time (5 minutes):	                                                                                10
 
 Please treat this task like an exam and make sure to allocate time to prepare your presentation and work on your project this week. The project presentation weighs 10% of your final mark in the course.
