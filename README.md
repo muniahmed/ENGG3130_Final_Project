@@ -20,4 +20,6 @@ Please treat this task like an exam and make sure to allocate time to prepare yo
 
 If you’re not very far along in your project yet, don’t panic! The presentation is about explaining your ideas clearly and concisely, and is only 5 minutes long. If you don’t yet have results to show, simply explaining what you’re planning to do and why is 100% OK.
 
+# How people interact with each other
 
+We think about speech when we think about communication but there are many factors which affects our interaction with others.
