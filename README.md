@@ -2,7 +2,7 @@
 ### Modelling people's interactions with each other based on how they treat each other and their memories of previous interactions with each other and how that affects the system as a whole (Company's success).
 
 
-Project Presentation Rubric:	
+# Project Presentation Rubric:	                                                    
 
 Motivate and define the problem:	                                                                              20
 
