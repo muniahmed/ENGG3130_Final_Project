@@ -33,6 +33,11 @@ We think about speech when we think about communication but there are many facto
 7. Touch.
 8. Eye contact.
 
-# How they treat each other and their memories of previous interactions
+# How people treat each other and their memories of previous interactions
 
 Memory supports and enables social interactions in a variety of ways. In order to engage in successful social interaction, people must be able to remember how they should interact with one another, whom they have interacted with previously, and what occurred during those interactions. Failure in any of these areas can lead to social rejection or violent conflict, which can be detrimental to a person's well being.
+
+ # How this model is similar to Prisoner's Dilemma
+ 
+ ## Prisoner's Dilemma: 
+The prisoner's dilemma is a standard example of a game analyzed in game theory that shows why two completely rational individuals might not cooperate, even if it appears that it is in their best interests to do so.
