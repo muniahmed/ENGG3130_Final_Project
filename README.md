@@ -2,7 +2,7 @@
 ### Modelling people's interactions with each other based on how they treat each other and their memories of previous interactions with each other and how that affects the system as a whole (Company's success).
 
 
-# Project Presentation Rubric:	                                                    
+# Project Presentation Rubric	                                                    
 
 Motivate and define the problem:	                                                                              20
 
@@ -31,4 +31,8 @@ We think about speech when we think about communication but there are many facto
 5. Drawing.
 6. Using equipment e.g. Text message or computer.
 7. Touch.
-8. Eye contact
+8. Eye contact.
+
+# How they treat each other and their memories of previous interactions
+
+Memory supports and enables social interactions in a variety of ways. In order to engage in successful social interaction, people must be able to remember how they should interact with one another, whom they have interacted with previously, and what occurred during those interactions. Failure in any of these areas can lead to social rejection or violent conflict, which can be detrimental to a person's well being.
