@@ -47,3 +47,7 @@ Two members of a criminal gang are arrested and imprisoned. Each prisoner is in 
 - If A and B each betray the other, each of them serves two years in prison
 - If A betrays B but B remains silent, A will be set free and B will serve three years in prison (and vice versa)
 - If A and B both remain silent, both of them will serve only one year in prison (on the lesser charge).
+
+## PsychoPy:
+Our model of PsycoPy is very much similar to the Prisoner's Dilemma described above. 
+
