@@ -8,6 +8,9 @@ class Person():
         self.roundFitness = 0
         self.opponent = None
         #self.memory[10] = {}
+        self.nhist = []
+        self.chist = []
+        self.dhist = []
 
 #Change strategys to percentages instead of binary based on previous rounds
 class Generous(Person):

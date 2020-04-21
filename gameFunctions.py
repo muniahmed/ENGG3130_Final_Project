@@ -1,4 +1,5 @@
 import random
+import copy
 
 def randomMove():
     k = random.randint(0, 2)
@@ -86,5 +87,13 @@ def playGame(player1, player2):
             player2.roundFitness += 2
             player1.strategy[previous2] = min(maxChance, player1.strategy[previous2] + 0.1)
             player2.strategy[previous1] = min(maxChance, player2.strategy[previous1] + 0.1)
+
+
+    player1.nhist.append(player1.strategy[None])
+    player1.chist.append(player1.strategy['C'])
+    player1.dhist.append(player1.strategy['D'])
+    player2.nhist.append(player2.strategy[None])
+    player2.chist.append(player2.strategy['C'])
+    player2.dhist.append(player2.strategy['D'])
     return
 

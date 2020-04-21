@@ -88,3 +88,6 @@ print("Winning strategy: {none:", people[fittestPersonIndex].strategy[None], ", 
           ", D:", people[fittestPersonIndex].strategy["D"], "}", )
 print("Average strategy: {none:", stratNone/len(people), ", C:", stratC/len(people),
           ", D:", stratD/len(people), "}", )
+
+
+print("History elements for winner", people[fittestPersonIndex].identifier, ": ", len(people[fittestPersonIndex].nhist),len(people[fittestPersonIndex].chist), len(people[fittestPersonIndex].dhist))
