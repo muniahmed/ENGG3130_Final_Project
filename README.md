@@ -86,6 +86,8 @@ Let’s assume that the incremental profits that accrue to Coca-Cola and Pepsi a
 - If one drops prices (i.e., defects) but the other does not (cooperates), profits increase by $750 million for the former because of greater market share and are unchanged for the latter.
 - If both companies reduce prices, the increase in soft drink consumption offsets the lower price, and profits for each company increase by $250 million.
 
+The payoff matrix looks like this (the numbers represent incremental dollar profits in hundreds of millions):
+
 Coca-Cola vs. PepsiCo 
 
                                PepsiCo 
@@ -102,7 +104,60 @@ Coca-Cola
 
 
                                Defect            750, 0              250, 250
+                               
+                               
+Other oft-cited prisoner’s dilemma examples are in areas such as new product or technology development or advertising and marketing expenditures by companies.
 
+For example, if two firms have an implicit agreement to leave advertising budgets unchanged in a given year, their net income may stay at relatively high levels. But if one defects and raises its advertising budget, it may earn greater profits at the expense of the other company, as higher sales offset the increased advertising expenses. However, if both companies boost their advertising budgets, the increased advertising efforts may offset each other and prove ineffective, resulting in lower profits—due to the higher advertising expenses—than would have been the case if the ad budgets were left unchanged.
+
+## Applications to Economy
+
+The U.S. debt deadlock between the Democrats and Republicans that springs up from time to time is a classic example of a prisoner’s dilemma.
+
+Let’s say the utility or benefit of resolving the U.S. debt issue would be electoral gains for the parties in the next election. Cooperation in this instance refers to the willingness of both parties to work to maintain the status quo with regard to the spiraling U.S. budget deficit. Defecting implies backing away from this implicit agreement and taking the steps required to bring the deficit under control.
+
+If both parties cooperate and keep the economy running smoothly, some electoral gains are assured. But if Party A tries to resolve the debt issue in a proactive manner, while Party B does not cooperate, this recalcitrance may cost B votes in the next election, which may go to A.
+
+However, if both parties back away from cooperation and play hardball in an attempt to resolve the debt issue, the consequent economic turmoil (sliding markets, a possible credit downgrade, and government shutdown) may result in lower electoral gains for both parties.
+
+## How Can We Use It?
+
+The PsychoPy model can be used to aid decision-making in a number of areas in one’s personal life, such as buying a car, salary negotiations and so on.
+
+For example, assume you are in the market for a new car and you walk into a car dealership. The utility or payoff, in this case, is a non-numerical attribute (i.e., satisfaction with the deal). You want to get the best possible deal in terms of price, car features, etc., while the car salesman wants to get the highest possible price to maximize his commission.
+
+Cooperation in this context means no haggling; you walk in, pay the sticker price (much to the salesman’s delight), and leave with a new car. On the other hand, defecting means bargaining. You want a lower price, while the salesman wants a higher price. Assigning numerical values to the levels of satisfaction, where 10 means fully satisfied with the deal and 0 implies no satisfaction, the payoff matrix is as shown below:
+
+Car Buyer vs. Salesman 
+
+                               Salesman 
+                               
+Payoff Matrix
+
+
+                                                 Cooperate           Defect
+
+
+Buyer                      
+
+                               Cooperate         (a) 7, 7            (c) 0, 10
+
+
+                               Defect            (b) 10, 0           (d) 3, 3
+
+What does this matrix tell us? If you drive a hard bargain and get a substantial reduction in the car price, you are likely to be fully satisfied with the deal, but the salesman is likely to be unsatisfied because of the loss of commission (as can be seen in cell b).
+
+Conversely, if the salesman sticks to his guns and does not budge on price, you are likely to be unsatisfied with the deal while the salesman would be fully satisfied (cell c).
+
+Your satisfaction level may be less if you simply walked in and paid full sticker price (cell a). The salesman in this situation is also likely to be less than fully satisfied, since your willingness to pay full price may leave him wondering if he could have “steered” you to a more expensive model, or added some more bells and whistles to gain more commission.
+
+Cell (d) shows a much lower degree of satisfaction for both buyer and seller, since prolonged haggling may have eventually led to a reluctant compromise on the price paid for the car.
+
+Likewise, with salary negotiations, you may be ill-advised to take the first offer that a potential employer makes to you (assuming you know that you’re worth more).
+
+Cooperating by taking the first offer may seem like an easy solution in a difficult job market, but it may result in you leaving some money on the table. Defecting (i.e., negotiating) for a higher salary may indeed fetch you a fatter pay package. Conversely, if the employer is not willing to pay more, you may be dissatisfied with the final offer.
+
+Hopefully, the salary negotiations do not turn acrimonious, since that may result in a lower level of satisfaction for you and the employer. The buyer-salesman payoff matrix shown earlier can be easily extended to show the satisfaction level for the job seeker versus the employer.
 
 Applications - https://www.econlib.org/library/Enc/PrisonersDilemma.html
 
