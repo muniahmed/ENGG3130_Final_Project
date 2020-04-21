@@ -71,9 +71,21 @@ Can “prisoners” extricate themselves from the dilemma and sustain cooperatio
 
 5. Cooperation can also arise if the group has a large leader, who personally stands to lose a lot from outright competition and therefore exercises restraint, even though he knows that other small players will cheat. Saudi Arabia’s role of “swing producer” in the opec cartel is an instance of this.
 
+## Applications to Buisness
 
+A classic example of the prisoner’s dilemma in the real world is encountered when two competitors are battling it out in the marketplace. Often, many sectors of the economy have two main rivals. In the U.S., for example, there is a fierce rivalry between Coca-Cola (KO) and PepsiCo (PEP) in soft drinks and Home Depot (HD) versus Lowe’s (LOW) in building supplies. This competition has given rise to numerous case studies in business schools. Other fierce rivalries include Starbucks (SBUX) versus Tim Horton’s (THI) in Canada and Apple (AAPL) versus Samsung in the global mobile phone sector.
 
+Consider the case of Coca-Cola versus PepsiCo, and assume the former is thinking of cutting the price of its iconic soda. If it does so, Pepsi may have no choice but to follow suit for its cola to retain its market share. This may result in a significant drop in profits for both companies.
+
+A price drop by either company may thus be construed as defecting since it breaks an implicit agreement to keep prices high and maximize profits. Thus, if Coca-Cola drops its price but Pepsi continues to keep prices high, the former is defecting, while the latter is cooperating (by sticking to the spirit of the implicit agreement). In this scenario, Coca-Cola may win market share and earn incremental profits by selling more colas.
+
+### Payoff Matrix
+Let’s assume that the incremental profits that accrue to Coca-Cola and Pepsi are as follows:
+
+- If both keep prices high, profits for each company increase by $500 million (because of normal growth in demand).
+- If one drops prices (i.e., defects) but the other does not (cooperates), profits increase by $750 million for the former because of greater market share and are unchanged for the latter.
+- If both companies reduce prices, the increase in soft drink consumption offsets the lower price, and profits for each company increase by $250 million.
 
 
 Applications - https://www.econlib.org/library/Enc/PrisonersDilemma.html
-
+Business Applications - https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp#applications-to-business
