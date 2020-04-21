@@ -95,11 +95,12 @@ Payoff Matrix
 
                                                  Cooperate           Defect
 
-Coca-Cola                      Cooperate         500, 500            0, 750
+Coca-Cola             	        Cooperate         500, 500            0, 750
 
 
                                Defect            750, 0              250, 250
 
 
 Applications - https://www.econlib.org/library/Enc/PrisonersDilemma.html
+
 Business Applications - https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp#applications-to-business
