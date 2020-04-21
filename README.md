@@ -43,5 +43,37 @@ In the simplest version of this game, we assume that A and B have no other consi
 Under those assumptions, the rational choice for both agents is to defect. That might be a good thing, at least for purposes of criminal justice. But for the prisoners, it is frustrating because there is, apparently, nothing they can do to achieve the outcome they both want. And this model applies to other scenarios in real life where cooperation would be better for the greater good as well as for the players.
 
 ## PsychoPy:
-Our model of PsycoPy is very much similar to the Prisoner's Dilemma described above. Here, instead of prisoners  
+Our model of PsycoPy is very much similar to the Prisoner's Dilemma described above. Here, instead of prisoners we have two real life players who could play this game called 'PsychoPy' against each other. The one who gets the highest score is the winner. The player could choose to be Generous, Selfish or TitForTat based on the situation. 
+
+
+
+# Applications
+
+PsychoPy helps us understand what governs the balance between cooperation and competition in business, in politics and in social settings. 
+
+For instance consider three firms: Walmart and No Frills. They sell similar products and must decide on their pricing startegy. These firms could utilize their joint market power when all charge a high price. If one choose to set a low price, it will get a spike in sales and number of customers served. If both set low prices, both would make equal profits. On comparing this situation with PsychoPy model one could easily derive that, the low-price strategy is comparable to the prisoner’s confession, and the high-price akin to keeping silent. Call the former cheating, and the latter cooperation. Then cheating is each firm’s dominant strategy, but the result when both “cheat” is worse for each than that of both cooperating.
+
+Arms races between superpowers or local rival nations offer another important example of the dilemma. Both countries are better off when they cooperate and avoid an arms race. Yet the dominant strategy for each is to arm itself heavily.
+
+When each person in the game pursues his private interest, he does not promote the collective interest of the group. But often a group’s cooperation is not in the interests of society as a whole. Collusion to keep prices high, for example, is not in society’s interest because the cost to consumers from collusion is generally more than the increased profit of the firms. Therefore companies that pursue their own self-interest by cheating on collusive agreements often help the rest of society. Similarly, cooperation among prisoners under interrogation makes convictions more difficult for the police to obtain. One must understand the mechanism of cooperation before one can either promote or defeat it in the pursuit of larger policy interests.
+
+Can “prisoners” extricate themselves from the dilemma and sustain cooperation when each has a powerful incentive to cheat? If so, how? The most common path to cooperation arises from repetitions of the game. In the Walmart-No Frills example, one month’s cheating gets the cheater extra profits. But a switch from mutual cooperation to mutual cheating loses some money. If one month’s cheating is followed by two months’ retaliation, therefore, the result is a wash for the cheater. Any stronger punishment of a cheater would be a clear deterrent. 
+
+## The following five points elaborate on the idea:
+
+1. The cheater’s reward comes at once, while the loss from punishment lies in the future. If players heavily discount future payoffs, then the loss may be insufficient to deter cheating. Thus, cooperation is harder to sustain among very impatient players (governments, for example).
+
+2. Punishment will not work unless cheating can be detected and punished. Therefore, companies cooperate more when their actions are more easily detected (setting prices, for example) and less when actions are less easily detected (deciding on nonprice attributes of goods, such as repair warranties). Punishment is usually easier to arrange in smaller and closed groups. Thus, industries with few firms and less threat of new entry are more likely to be collusive.
+
+3. Punishment can be made automatic by following strategies like “tit for tat.” This idea was popularized by University of Michigan political scientist Robert Axelrod. Here, you cheat if and only if your rival cheated in the previous round. But if rivals’ innocent actions can be misinterpreted as cheating, then tit for tat runs the risk of setting off successive rounds of unwarranted retaliation.
+
+4. A fixed, finite number of repetitions is logically inadequate to yield cooperation. Both or all players know that cheating is the dominant strategy in the last play. Given this, the same goes for the second-last play, then the third-last, and so on. But in practice we see some cooperation in the early rounds of a fixed set of repetitions. The reason may be either that players do not know the number of rounds for sure, or that they can exploit the possibility of “irrational niceness” to their mutual advantage.
+
+5. Cooperation can also arise if the group has a large leader, who personally stands to lose a lot from outright competition and therefore exercises restraint, even though he knows that other small players will cheat. Saudi Arabia’s role of “swing producer” in the opec cartel is an instance of this.
+
+
+
+
+
+Applications - https://www.econlib.org/library/Enc/PrisonersDilemma.html
 
