@@ -96,7 +96,9 @@ Payoff Matrix
                                                  Cooperate           Defect
 
 
-Coca-Cola                      Cooperate         500, 500            0, 750
+Coca-Cola                      
+
+                               Cooperate         500, 500            0, 750
 
 
                                Defect            750, 0              250, 250
