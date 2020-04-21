@@ -86,6 +86,20 @@ Let’s assume that the incremental profits that accrue to Coca-Cola and Pepsi a
 - If one drops prices (i.e., defects) but the other does not (cooperates), profits increase by $750 million for the former because of greater market share and are unchanged for the latter.
 - If both companies reduce prices, the increase in soft drink consumption offsets the lower price, and profits for each company increase by $250 million.
 
+Coca-Cola vs. PepsiCo 
+
+                               PepsiCo 
+                               
+Payoff Matrix
+
+
+                                                 Cooperate           Defect
+
+Coca-Cola                      Cooperate         500, 500            0, 750
+
+
+                               Defect            750, 0              250, 250
+
 
 Applications - https://www.econlib.org/library/Enc/PrisonersDilemma.html
 Business Applications - https://www.investopedia.com/articles/investing/110513/utilizing-prisoners-dilemma-business-and-economy.asp#applications-to-business
